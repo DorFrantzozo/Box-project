@@ -1,0 +1,9 @@
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\bin\Debug\BoxModels.dll
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\bin\Debug\BoxModels.pdb
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\obj\Debug\BoxModels.csproj.AssemblyReference.cache
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\obj\Debug\BoxModels.csproj.CoreCompileInputs.cache
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\obj\Debug\BoxModels.csproj.CopyComplete
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\obj\Debug\BoxModels.dll
+C:\Users\Dor\Desktop\BoxesProj\BoxModels\obj\Debug\BoxModels.pdb
